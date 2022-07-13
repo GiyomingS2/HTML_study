@@ -1,3 +1,18 @@
 body {
     margin: 0;
 }
+
+.nav {
+    border: 3px solid rgb(171, 171, 176);
+    height: 50px;
+    background-color: #dbdbdb;
+}
+
+p {
+    margin: 0;
+}
+
+#nav {
+    line-height: 50px;
+    text-align: center;
+}
